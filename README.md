@@ -42,14 +42,11 @@ git clone https://github.com/seu-usuario/atividade-replicar-design-pawsitive-wel
 # Acesse a pasta do projeto
 cd atividade-replicar-design-pawsitive-wellness
 
-# Instale as dependências (caso utilize gerenciador de pacotes)
-npm install
-
-# Execute o projeto
-npm run dev
+# Abra o arquivo index.html no seu navegador
+# (Ou execute utilizando a extensão Live Server no VS Code)
 ```
 
-O projeto estará disponível em `http://localhost:3000` (ou porta configurada).
+O projeto pode ser visualizado diretamente abrindo o arquivo `index.html` em qualquer navegador web ou através do servidor local do VS Code (`http://127.0.0.1:5500`).
 
 ---
 
