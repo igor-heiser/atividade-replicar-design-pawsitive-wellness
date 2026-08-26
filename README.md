@@ -1,6 +1,10 @@
 # Atividade: Replicar Design - Pawsitive Wellness
 
+## Sobre
+
 Aplicação web desenvolvida como atividade prática para replicar o design do projeto "Pawsitive Wellness" oferecido pelo professor via Figma, com foco em estruturação de layout, performance e boas práticas de Front-End.
+
+---
 
 ## Preview
 
@@ -12,16 +16,22 @@ Aplicação web desenvolvida como atividade prática para replicar o design do p
 
 <img width="1280" height="825" alt="image" src="https://github.com/user-attachments/assets/f8a619b1-6669-421a-b273-4c2155ca7797" />
 
+---
+
 ## Funcionalidades
 
 - Replicação fiel do design original "Pawsitive Wellness"
 - Interface responsiva adaptável a diferentes dispositivos
 - Navegação intuitiva e estilização de componentes
 
+---
+
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ## Como executar
 
@@ -41,6 +51,8 @@ npm run dev
 
 O projeto estará disponível em `http://localhost:3000` (ou porta configurada).
 
+---
+
 ## Estrutura do projeto
 
 ```text
@@ -52,6 +64,8 @@ atividade-replicar-design-pawsitive-wellness/
 ├── package.json      # Dependências e scripts
 └── README.md         # Documentação
 ```
+
+---
 
 ## Autor
 
